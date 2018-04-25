@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remake", "Remake.csproj", "{45C878FF-EF54-8845-34CF-C263A687416D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remake.Plugins", "Remake.Plugins.csproj", "{F920AC82-0B28-D7D6-9F55-4476A9387EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remake.Editor.Plugins", "Remake.Editor.Plugins.csproj", "{6CE1EBA2-E96A-87B9-6DE4-6534778640DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45C878FF-EF54-8845-34CF-C263A687416D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C878FF-EF54-8845-34CF-C263A687416D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C878FF-EF54-8845-34CF-C263A687416D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C878FF-EF54-8845-34CF-C263A687416D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F920AC82-0B28-D7D6-9F55-4476A9387EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F920AC82-0B28-D7D6-9F55-4476A9387EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F920AC82-0B28-D7D6-9F55-4476A9387EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F920AC82-0B28-D7D6-9F55-4476A9387EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE1EBA2-E96A-87B9-6DE4-6534778640DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE1EBA2-E96A-87B9-6DE4-6534778640DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE1EBA2-E96A-87B9-6DE4-6534778640DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE1EBA2-E96A-87B9-6DE4-6534778640DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
